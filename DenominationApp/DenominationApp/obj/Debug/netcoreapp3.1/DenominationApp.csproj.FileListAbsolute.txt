@@ -1,0 +1,14 @@
+C:\Users\sarathkmoorthy\source\repos\DenominationApp\DenominationApp\bin\Debug\netcoreapp3.1\DenominationApp.exe
+C:\Users\sarathkmoorthy\source\repos\DenominationApp\DenominationApp\bin\Debug\netcoreapp3.1\DenominationApp.deps.json
+C:\Users\sarathkmoorthy\source\repos\DenominationApp\DenominationApp\bin\Debug\netcoreapp3.1\DenominationApp.runtimeconfig.json
+C:\Users\sarathkmoorthy\source\repos\DenominationApp\DenominationApp\bin\Debug\netcoreapp3.1\DenominationApp.runtimeconfig.dev.json
+C:\Users\sarathkmoorthy\source\repos\DenominationApp\DenominationApp\bin\Debug\netcoreapp3.1\DenominationApp.dll
+C:\Users\sarathkmoorthy\source\repos\DenominationApp\DenominationApp\bin\Debug\netcoreapp3.1\DenominationApp.pdb
+C:\Users\sarathkmoorthy\source\repos\DenominationApp\DenominationApp\obj\Debug\netcoreapp3.1\DenominationApp.csproj.AssemblyReference.cache
+C:\Users\sarathkmoorthy\source\repos\DenominationApp\DenominationApp\obj\Debug\netcoreapp3.1\DenominationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarathkmoorthy\source\repos\DenominationApp\DenominationApp\obj\Debug\netcoreapp3.1\DenominationApp.AssemblyInfoInputs.cache
+C:\Users\sarathkmoorthy\source\repos\DenominationApp\DenominationApp\obj\Debug\netcoreapp3.1\DenominationApp.AssemblyInfo.cs
+C:\Users\sarathkmoorthy\source\repos\DenominationApp\DenominationApp\obj\Debug\netcoreapp3.1\DenominationApp.csproj.CoreCompileInputs.cache
+C:\Users\sarathkmoorthy\source\repos\DenominationApp\DenominationApp\obj\Debug\netcoreapp3.1\DenominationApp.dll
+C:\Users\sarathkmoorthy\source\repos\DenominationApp\DenominationApp\obj\Debug\netcoreapp3.1\DenominationApp.pdb
+C:\Users\sarathkmoorthy\source\repos\DenominationApp\DenominationApp\obj\Debug\netcoreapp3.1\DenominationApp.genruntimeconfig.cache
